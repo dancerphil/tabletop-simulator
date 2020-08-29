@@ -1,44 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 桌游模拟器
 
-## Available Scripts
+## BiliBili 直播间
 
-In the project directory, you can run:
+https://live.bilibili.com/22493764?visit_id=9huqbhk9az40
 
-### `yarn start`
+## Progress 目前进度
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. 测试技术可行性
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [x] react-dnd
 
-### `yarn test`
+- [ ] web-socket
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ ] react-dnd 在触摸屏上的表现
 
-### `yarn build`
+- [ ] 缩放相关的技术
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. 游戏架构
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- [ ] Cloth 桌布
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ ] Object/Item 对象/物体
 
-### `yarn eject`
+- [ ] Slot 卡槽
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [ ] Area 区域
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ ] Stack 堆叠
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [ ] Action 自定义动作
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [ ] Deck 卡组
 
-## Learn More
+3. 游戏体验
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. 增加卡组
