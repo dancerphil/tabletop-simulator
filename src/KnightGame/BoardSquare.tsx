@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React from 'react'
 import { useDrop } from 'react-dnd'
-import { canMoveKnight, moveKnight } from './Game'
+import { canMoveKnight, moveKnight } from '../regions'
 import { ItemTypes } from './ItemTypes'
 
 const Overlay = ({ color }) => {

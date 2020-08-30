@@ -14,6 +14,4 @@ export function canMoveKnight(toX: number, toY: number) {
     )
 }
 
-export function moveKnight(toX: number, toY: number) {
-    knightPositionRegion.set([toX, toY]);
-}
+export const setKnightPosition = knightPositionRegion.set;

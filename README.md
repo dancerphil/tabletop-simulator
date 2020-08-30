@@ -10,7 +10,7 @@ https://live.bilibili.com/22493764?visit_id=9huqbhk9az40
 
 - [x] react-dnd
 
-- [ ] web-socket
+- [x] web-socket
 
 - [ ] react-dnd 在触摸屏上的表现
 

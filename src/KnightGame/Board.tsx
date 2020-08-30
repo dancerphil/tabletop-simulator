@@ -2,7 +2,7 @@
 import React from 'react'
 import { BoardSquare } from './BoardSquare'
 import { Knight } from './Knight'
-import {useKnightPosition} from "./Game";
+import {useKnightPosition} from "../regions";
 /** Styling properties applied to the board element */
 const boardStyle = {
     width: '100%',
